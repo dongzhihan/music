@@ -55,6 +55,7 @@
     "karma-webpack": "^2.0.2",
     "lolex": "^1.5.2",
     "mocha": "^3.2.0",
+    "muse-ui": "^2.0.0-rc.5",
     "nightwatch": "^0.9.12",
     "node-sass": "^4.5.0",
     "opn": "^4.0.2",
